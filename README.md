@@ -1,3 +1,5 @@
+Initially published on my other account - https://github.com/isaacawonugba/Github-Finder
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
